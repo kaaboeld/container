@@ -12,8 +12,8 @@ Container – это фреймворк для создания «тонких �
 + [Стать о framework](https://docs.google.com/document/d/1wgwwkqdjTO32Pgm5PbsIwQQNKNkRSposSOoXU5-ey_o/edit?usp=sharing)
 
 ### Разработчик
- **Eugene 'kaaboeld' Popov**
- &copy; Компания «Аланов» 2011-2014
++ Eugene 'kaaboeld' Popov
++ Компания «Аланов» 2011-2014
 
 
 
