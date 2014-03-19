@@ -8,12 +8,13 @@ Container – это фреймворк для создания «тонких �
 сервисами и построения на основе json-данных кроссбраузернного
 и кроссплатформенного веб-интерфейса.
 
-[Стать о framework](https://docs.google.com/document/d/1wgwwkqdjTO32Pgm5PbsIwQQNKNkRSposSOoXU5-ey_o/edit?usp=sharing)
++ [Презентация о framework](https://github.com/kaaboeld/container/blob/master/docs/iscmp-container.pdf)
++ [Стать о framework](https://docs.google.com/document/d/1wgwwkqdjTO32Pgm5PbsIwQQNKNkRSposSOoXU5-ey_o/edit?usp=sharing)
 
-## Разработчик
+### Разработчик
 **Eugene 'kaaboeld' Popov**
 
-## Компания
+### Компания
 **[Аланов](http://akanov.ru)**
 
 
